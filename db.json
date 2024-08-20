@@ -1,69 +1,59 @@
 [
-    {
-        "ProductName": "Apple iPhone 13",
+    "Apple iPhone 13":{
         "Currency": "USD",
         "Price": 850,
         "Img": "",
         "Rating": 4.8
     },
-    {
-        "ProductName": "Bose QuietComfort 35 II",
+    "Bose QuietComfort 35 II":{
         "Currency": "USD",
         "Price": 300,
         "Img": "",
         "Rating": 4.6
     },
-    {
-        "ProductName": "Canon EOS R5",
+    "Canon EOS R5":{
         "Currency": "USD",
         "Price": 3800,
         "Img": "",
         "Rating": 4.9
     },
-    {
-        "ProductName": "Dyson V11 Absolute",
+    "Dyson V11 Absolute":{
         "Currency": "GBP",
         "Price": 600,
         "Img": "",
         "Rating": 4.5
     },
-    {
-        "ProductName": "Epson EcoTank ET-2760",
+    "Epson EcoTank ET-2760":{
         "Currency": "GBP",
         "Price": 250,
         "Img": "",
         "Rating": 4.3
     },
-    {
-        "ProductName": "Microsoft Surface Pro 7",
+    "Microsoft Surface Pro 7":{
         "Currency": "JPY",
         "Price": 98000,
         "Img": "",
         "Rating": 4.7
     },
-    {
-        "ProductName": "Google Nest Hub Max",
+    "Google Nest Hub Max":{
         "Currency": "EUR",
         "Price": 230,
         "Img": "",
         "Rating": 4.6
     },
-    {
-        "ProductName": "HP Spectre x360",
+    "HP Spectre x360":{
         "Currency": "EUR",
         "Price": 1200,
         "Img": "",
         "Rating": 4.8
     },
-    {
-        "ProductName": "Instant Pot Duo 7-in-1",
+    "Instant Pot Duo 7-in-1",:{ 
         "Currency": "EUR",
         "Price": 100,
         "Img": "",
         "Rating": 4.7
     },
-    {
-        "ProductName": "JBL Flip 5",
+    "JBL Flip 5":{
         "Currency": "MXN",
         "Price": 2400,
         "Img": "",
