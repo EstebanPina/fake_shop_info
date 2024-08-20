@@ -44,4 +44,49 @@
         "Img": "",
         "Rating": 4.3
     },
+    {
+        "Id": 6,
+        "ProductName": "Microsoft Surface Pro 7",
+        "Currency": "JPY",
+        "Price": 98000,
+        "Description": "Versatile 2-in-1 tablet with a powerful Intel Core processor.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 7,
+        "ProductName": "Google Nest Hub Max",
+        "Currency": "EUR",
+        "Price": 230,
+        "Description": "Smart display with Google Assistant and a 10-inch screen.",
+        "Img": "",
+        "Rating": 4.6
+    },
+    {
+        "Id": 8,
+        "ProductName": "HP Spectre x360",
+        "Currency": "EUR",
+        "Price": 1200,
+        "Description": "2-in-1 laptop with a 4K touch display and powerful performance.",
+        "Img": "",
+        "Rating": 4.8
+    },
+    {
+        "Id": 9,
+        "ProductName": "Instant Pot Duo 7-in-1",
+        "Currency": "EUR",
+        "Price": 100,
+        "Description": "Multifunctional pressure cooker that can sauté, steam, and more.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 10,
+        "ProductName": "JBL Flip 5",
+        "Currency": "MXN",
+        "Price": 2400,
+        "Description": "Portable Bluetooth speaker with powerful sound.",
+        "Img": "",
+        "Rating": 4.6
+    }
 ]
