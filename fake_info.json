@@ -1,0 +1,464 @@
+[
+  {
+        "Id": 1,
+        "ProductName": "Apple iPhone 13",
+        "Currency": "JPY",
+        "Price": 850,
+        "Description": "The latest Apple iPhone with a powerful A15 Bionic chip.",
+        "Img": "",
+        "Rating": 4.8
+    },
+    {
+        "Id": 2,
+        "ProductName": "Bose QuietComfort 35 II",
+        "Currency": "JPY",
+        "Price": 300,
+        "Description": "Noise-cancelling headphones with superior sound quality.",
+        "Img": "",
+        "Rating": 4.6
+    },
+    {
+        "Id": 3,
+        "ProductName": "Canon EOS R5",
+        "Currency": "JPY",
+        "Price": 3800,
+        "Description": "Full-frame mirrorless camera for professionals.",
+        "Img": "",
+        "Rating": 4.9
+    },
+    {
+        "Id": 4,
+        "ProductName": "Dyson V11 Absolute",
+        "Currency": "JPY",
+        "Price": 600,
+        "Description": "Powerful cordless vacuum cleaner with intelligent cleaning modes.",
+        "Img": "",
+        "Rating": 4.5
+    },
+    {
+        "Id": 5,
+        "ProductName": "Echo Dot (4th Gen)",
+        "Currency": "JPY",
+        "Price": 50,
+        "Description": "Smart speaker with Alexa.",
+        "Img": "",
+        "Rating": 4.3
+    },
+    {
+        "Id": 6,
+        "ProductName": "Fitbit Charge 5",
+        "Currency": "JPY",
+        "Price": 180,
+        "Description": "Advanced fitness tracker with built-in GPS.",
+        "Img": "",
+        "Rating": 4.4
+    },
+    {
+        "Id": 7,
+        "ProductName": "Google Pixel 6",
+        "Currency": "JPY",
+        "Price": 700,
+        "Description": "Google's flagship smartphone with a custom Tensor chip.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 8,
+        "ProductName": "HP Spectre x360",
+        "Currency": "JPY",
+        "Price
+
+Dijiste:
+Olvide decir. Currency puede tomar alguno de los siguientes valores. 'USD','MX', 'EUR', 'GBP','JPY'  Elige el que mas se acomode al producto
+ChatGPT dijo:
+ChatGPT
+
+Aquí tienes el objeto JSON modificado, teniendo en cuenta la selección de la moneda según el producto:
+
+json
+
+[
+    {
+        "Id": 1,
+        "ProductName": "Apple iPhone 13",
+        "Currency": "USD",
+        "Price": 850,
+        "Description": "The latest Apple iPhone with a powerful A15 Bionic chip.",
+        "Img": "",
+        "Rating": 4.8
+    },
+    {
+        "Id": 2,
+        "ProductName": "Bose QuietComfort 35 II",
+        "Currency": "USD",
+        "Price": 300,
+        "Description": "Noise-cancelling headphones with superior sound quality.",
+        "Img": "",
+        "Rating": 4.6
+    },
+    {
+        "Id": 3,
+        "ProductName": "Canon EOS R5",
+        "Currency": "USD",
+        "Price": 3800,
+        "Description": "Full-frame mirrorless camera for professionals.",
+        "Img": "",
+        "Rating": 4.9
+    },
+    {
+        "Id": 4,
+        "ProductName": "Dyson V11 Absolute",
+        "Currency": "GBP",
+        "Price": 600,
+        "Description": "Powerful cordless vacuum cleaner with intelligent cleaning modes.",
+        "Img": "",
+        "Rating": 4.5
+    },
+    {
+        "Id": 5,
+        "ProductName": "Epson EcoTank ET-2760",
+        "Currency": "USD",
+        "Price": 250,
+        "Description": "Cartridge-free printer with high-capacity ink tanks.",
+        "Img": "",
+        "Rating": 4.3
+    },
+    {
+        "Id": 6,
+        "ProductName": "Fossil Men's Nate Stainless Steel Quartz Chronograph Watch",
+        "Currency": "USD",
+        "Price": 140,
+        "Description": "Stylish and durable men's watch with a bold design.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 7,
+        "ProductName": "Google Nest Hub Max",
+        "Currency": "USD",
+        "Price": 230,
+        "Description": "Smart display with Google Assistant and a 10-inch screen.",
+        "Img": "",
+        "Rating": 4.6
+    },
+    {
+        "Id": 8,
+        "ProductName": "HP Spectre x360",
+        "Currency": "USD",
+        "Price": 1200,
+        "Description": "2-in-1 laptop with a 4K touch display and powerful performance.",
+        "Img": "",
+        "Rating": 4.8
+    },
+    {
+        "Id": 9,
+        "ProductName": "Instant Pot Duo 7-in-1",
+        "Currency": "USD",
+        "Price": 100,
+        "Description": "Multifunctional pressure cooker that can sauté, steam, and more.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 10,
+        "ProductName": "JBL Flip 5",
+        "Currency": "USD",
+        "Price": 120,
+        "Description": "Portable Bluetooth speaker with powerful sound.",
+        "Img": "",
+        "Rating": 4.6
+    },
+    {
+        "Id": 11,
+        "ProductName": "KitchenAid Artisan Series 5-Qt. Stand Mixer",
+        "Currency": "USD",
+        "Price": 430,
+        "Description": "Iconic stand mixer with 10 speeds and multiple attachments.",
+        "Img": "",
+        "Rating": 4.9
+    },
+    {
+        "Id": 12,
+        "ProductName": "Logitech MX Master 3",
+        "Currency": "USD",
+        "Price": 100,
+        "Description": "Advanced wireless mouse with precision control.",
+        "Img": "",
+        "Rating": 4.8
+    },
+    {
+        "Id": 13,
+        "ProductName": "Microsoft Surface Pro 7",
+        "Currency": "USD",
+        "Price": 900,
+        "Description": "Versatile 2-in-1 tablet with a powerful Intel Core processor.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 14,
+        "ProductName": "Nintendo Switch",
+        "Currency": "USD",
+        "Price": 300,
+        "Description": "Hybrid gaming console for home and portable play.",
+        "Img": "",
+        "Rating": 4.8
+    },
+    {
+        "Id": 15,
+        "ProductName": "Oculus Quest 2",
+        "Currency": "USD",
+        "Price": 400,
+        "Description": "All-in-one VR headset with a high-resolution display.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 16,
+        "ProductName": "Philips Hue
+
+Dijiste:
+Intenta que haya una cantidad similar de productos con cada Currency
+ChatGPT dijo:
+ChatGPT
+
+Aquí tienes un objeto JSON con una distribución más equilibrada de las monedas:
+
+json
+
+[
+    {
+        "Id": 1,
+        "ProductName": "Apple iPhone 13",
+        "Currency": "USD",
+        "Price": 850,
+        "Description": "The latest Apple iPhone with a powerful A15 Bionic chip.",
+        "Img": "",
+        "Rating": 4.8
+    },
+    {
+        "Id": 2,
+        "ProductName": "Bose QuietComfort 35 II",
+        "Currency": "USD",
+        "Price": 300,
+        "Description": "Noise-cancelling headphones with superior sound quality.",
+        "Img": "",
+        "Rating": 4.6
+    },
+    {
+        "Id": 3,
+        "ProductName": "Canon EOS R5",
+        "Currency": "USD",
+        "Price": 3800,
+        "Description": "Full-frame mirrorless camera for professionals.",
+        "Img": "",
+        "Rating": 4.9
+    },
+    {
+        "Id": 4,
+        "ProductName": "Dyson V11 Absolute",
+        "Currency": "GBP",
+        "Price": 600,
+        "Description": "Powerful cordless vacuum cleaner with intelligent cleaning modes.",
+        "Img": "",
+        "Rating": 4.5
+    },
+    {
+        "Id": 5,
+        "ProductName": "Epson EcoTank ET-2760",
+        "Currency": "GBP",
+        "Price": 250,
+        "Description": "Cartridge-free printer with high-capacity ink tanks.",
+        "Img": "",
+        "Rating": 4.3
+    },
+    {
+        "Id": 6,
+        "ProductName": "Fossil Men's Nate Stainless Steel Quartz Chronograph Watch",
+        "Currency": "GBP",
+        "Price": 140,
+        "Description": "Stylish and durable men's watch with a bold design.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 7,
+        "ProductName": "Google Nest Hub Max",
+        "Currency": "EUR",
+        "Price": 230,
+        "Description": "Smart display with Google Assistant and a 10-inch screen.",
+        "Img": "",
+        "Rating": 4.6
+    },
+    {
+        "Id": 8,
+        "ProductName": "HP Spectre x360",
+        "Currency": "EUR",
+        "Price": 1200,
+        "Description": "2-in-1 laptop with a 4K touch display and powerful performance.",
+        "Img": "",
+        "Rating": 4.8
+    },
+    {
+        "Id": 9,
+        "ProductName": "Instant Pot Duo 7-in-1",
+        "Currency": "EUR",
+        "Price": 100,
+        "Description": "Multifunctional pressure cooker that can sauté, steam, and more.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 10,
+        "ProductName": "JBL Flip 5",
+        "Currency": "MXN",
+        "Price": 2400,
+        "Description": "Portable Bluetooth speaker with powerful sound.",
+        "Img": "",
+        "Rating": 4.6
+    },
+    {
+        "Id": 11,
+        "ProductName": "KitchenAid Artisan Series 5-Qt. Stand Mixer",
+        "Currency": "MXN",
+        "Price": 8600,
+        "Description": "Iconic stand mixer with 10 speeds and multiple attachments.",
+        "Img": "",
+        "Rating": 4.9
+    },
+    {
+        "Id": 12,
+        "ProductName": "Logitech MX Master 3",
+        "Currency": "MXN",
+        "Price": 2000,
+        "Description": "Advanced wireless mouse with precision control.",
+        "Img": "",
+        "Rating": 4.8
+    },
+    {
+        "Id": 13,
+        "ProductName": "Microsoft Surface Pro 7",
+        "Currency": "JPY",
+        "Price": 98000,
+        "Description": "Versatile 2-in-1 tablet with a powerful Intel Core processor.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 14,
+        "ProductName": "Nintendo Switch",
+        "Currency": "JPY",
+        "Price": 39000,
+        "Description": "Hybrid gaming console for home and portable play.",
+        "Img": "",
+        "Rating": 4.8
+    },
+    {
+        "Id": 15,
+        "ProductName": "Oculus Quest 2",
+        "Currency": "JPY",
+        "Price": 52000,
+        "Description": "All-in-one VR headset with a high-resolution display.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 16,
+        "ProductName": "Philips Hue White",
+        "Currency": "EUR",
+        "Price": 80,
+        "Description": "Smart LED bulbs with customizable lighting options.",
+        "Img": "",
+        "Rating": 4.5
+    },
+    {
+        "Id": 17,
+        "ProductName": "QNAP TS-451D2-4G",
+        "Currency": "GBP",
+        "Price": 500,
+        "Description": "High-performance NAS with multimedia support.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 18,
+        "ProductName": "Roku Streaming Stick+",
+        "Currency": "USD",
+        "Price": 50,
+        "Description": "Portable streaming player with 4K resolution support.",
+        "Img": "",
+        "Rating": 4.6
+    },
+    {
+        "Id": 19,
+        "ProductName": "Samsung Galaxy S21",
+        "Currency": "USD",
+        "Price": 800,
+        "Description": "Flagship smartphone with a stunning display and powerful camera.",
+        "Img": "",
+        "Rating": 4.8
+    },
+    {
+        "Id": 20,
+        "ProductName": "Toshiba 55-inch 4K UHD Smart TV",
+        "Currency": "JPY",
+        "Price": 90000,
+        "Description": "Ultra HD Smart TV with vibrant colors and HDR support.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 21,
+        "ProductName": "Ultimate Ears BOOM 3",
+        "Currency": "EUR",
+        "Price": 150,
+        "Description": "Waterproof Bluetooth speaker with 360° sound.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 22,
+        "ProductName": "Vitamix E310 Explorian Blender",
+        "Currency": "MXN",
+        "Price": 7500,
+        "Description": "High-performance blender with variable speed control.",
+        "Img": "",
+        "Rating": 4.8
+    },
+    {
+        "Id": 23,
+        "ProductName": "Western Digital My Passport 4TB",
+        "Currency": "GBP",
+        "Price": 120,
+        "Description": "Portable external hard drive with ample storage.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 24,
+        "ProductName": "Xiaomi Mi Smart Band 6",
+        "Currency": "JPY",
+        "Price": 5000,
+        "Description": "Affordable fitness tracker with SpO2 tracking.",
+        "Img": "",
+        "Rating": 4.6
+    },
+    {
+        "Id": 25,
+        "ProductName": "Yamaha YAS-209 Sound Bar",
+        "Currency": "JPY",
+        "Price": 45000,
+        "Description": "Soundbar with built-in Alexa and wireless subwoofer.",
+        "Img": "",
+        "Rating": 4.7
+    },
+    {
+        "Id": 26,
+        "ProductName": "Zojirushi Neuro Fuzzy Rice Cooker",
+        "Currency": "JPY",
+        "Price": 24000,
+        "Description": "Advanced rice cooker with multiple cooking settings.",
+        "Img": "",
+        "Rating": 4.8
+    }
+]
